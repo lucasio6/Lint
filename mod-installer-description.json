@@ -1,0 +1,27 @@
+{ 
+"name": "Lint",
+"description": "Adds a lint as an accelerant.",
+"url": "https://github.com/lucasio6/Lint",
+"releases": [ 
+   { 
+      "version": "1.0",
+      "url": "https://github.com/lucasio6/Lint/releases/tag/1.0",
+      "changes": "First version",
+      "dependencies": [ 
+                 { 
+                      "name": "ModComponent",
+                      "version": "2.5.1"
+                 }
+                       ],
+      "assets": [
+            { 
+               "url": "https://github.com/lucasio6/Wolfhat/releases/download/1.0/Lint-V1.0.zip" 
+            }
+                  ]
+    }
+    
+          ]
+}
+
+
+
